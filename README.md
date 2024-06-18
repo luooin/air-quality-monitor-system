@@ -1,4 +1,4 @@
-![image](https://github.com/luooin/human-resource-manager/assets/85004172/61f4dfa3-129c-4bc1-b38f-70e54c21f85e)# air-quality-monitor-system
+# human-resource-manager
 本系统前端主要使用的技术是 JSP，为了更好的存储数据，数据库采用的是MYSQL 数据库，后端系统的实现主要是由 IDEA 进行开发，实现了该系统的大部分功能模块，本系统主要有几大模块，登录模块，管理者模块，员工模块，部门模块，管理员可以对员工信息和部门信息进行修改，部门模块可以对其下的员工进行管理。本系统有多个身份，每个身份对应着不同的权限，可以使用不同的功能模块。
 
 **有偿获得完整源码+Q：1902317191**
