@@ -1,6 +1,6 @@
 # human-resource-manager🎂
 
-基于SpringBoot+Vue的水果超市、鲜果超市、农产品产销、农产品销售系统
+基于SSM+JSP的人力资源管理系统
 
 
 
